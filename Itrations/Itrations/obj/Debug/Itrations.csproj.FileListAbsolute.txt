@@ -1,0 +1,7 @@
+D:\project\LearnCSharp\Itrations\Itrations\bin\Debug\Itrations.exe.config
+D:\project\LearnCSharp\Itrations\Itrations\bin\Debug\Itrations.exe
+D:\project\LearnCSharp\Itrations\Itrations\bin\Debug\Itrations.pdb
+D:\project\LearnCSharp\Itrations\Itrations\obj\Debug\Itrations.csproj.SuggestedBindingRedirects.cache
+D:\project\LearnCSharp\Itrations\Itrations\obj\Debug\Itrations.csproj.CoreCompileInputs.cache
+D:\project\LearnCSharp\Itrations\Itrations\obj\Debug\Itrations.exe
+D:\project\LearnCSharp\Itrations\Itrations\obj\Debug\Itrations.pdb

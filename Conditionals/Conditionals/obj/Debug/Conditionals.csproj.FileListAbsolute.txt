@@ -1,0 +1,8 @@
+D:\project\LearnCSharp\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+D:\project\LearnCSharp\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+D:\project\LearnCSharp\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+D:\project\LearnCSharp\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+D:\project\LearnCSharp\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+D:\project\LearnCSharp\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+D:\project\LearnCSharp\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+D:\project\LearnCSharp\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
