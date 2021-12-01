@@ -1,0 +1,8 @@
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\project\Learn CSahrp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
