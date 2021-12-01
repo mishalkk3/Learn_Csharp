@@ -1,0 +1,8 @@
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe.config
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.pdb
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.AssemblyReference.cache
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.SuggestedBindingRedirects.cache
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.CoreCompileInputs.cache
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.exe
+D:\project\LearnCSharp\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.pdb
