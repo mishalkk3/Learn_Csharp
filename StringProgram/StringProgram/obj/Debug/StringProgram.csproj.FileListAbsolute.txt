@@ -1,0 +1,8 @@
+D:\project\LearnCSharp\StringProgram\StringProgram\bin\Debug\StringProgram.exe.config
+D:\project\LearnCSharp\StringProgram\StringProgram\bin\Debug\StringProgram.exe
+D:\project\LearnCSharp\StringProgram\StringProgram\bin\Debug\StringProgram.pdb
+D:\project\LearnCSharp\StringProgram\StringProgram\obj\Debug\StringProgram.csproj.AssemblyReference.cache
+D:\project\LearnCSharp\StringProgram\StringProgram\obj\Debug\StringProgram.csproj.SuggestedBindingRedirects.cache
+D:\project\LearnCSharp\StringProgram\StringProgram\obj\Debug\StringProgram.csproj.CoreCompileInputs.cache
+D:\project\LearnCSharp\StringProgram\StringProgram\obj\Debug\StringProgram.exe
+D:\project\LearnCSharp\StringProgram\StringProgram\obj\Debug\StringProgram.pdb

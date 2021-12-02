@@ -1,0 +1,8 @@
+D:\project\LearnCSharp\LearnFiles\LearnFiles\bin\Debug\LearnFiles.exe.config
+D:\project\LearnCSharp\LearnFiles\LearnFiles\bin\Debug\LearnFiles.exe
+D:\project\LearnCSharp\LearnFiles\LearnFiles\bin\Debug\LearnFiles.pdb
+D:\project\LearnCSharp\LearnFiles\LearnFiles\obj\Debug\LearnFiles.csproj.AssemblyReference.cache
+D:\project\LearnCSharp\LearnFiles\LearnFiles\obj\Debug\LearnFiles.csproj.SuggestedBindingRedirects.cache
+D:\project\LearnCSharp\LearnFiles\LearnFiles\obj\Debug\LearnFiles.csproj.CoreCompileInputs.cache
+D:\project\LearnCSharp\LearnFiles\LearnFiles\obj\Debug\LearnFiles.exe
+D:\project\LearnCSharp\LearnFiles\LearnFiles\obj\Debug\LearnFiles.pdb

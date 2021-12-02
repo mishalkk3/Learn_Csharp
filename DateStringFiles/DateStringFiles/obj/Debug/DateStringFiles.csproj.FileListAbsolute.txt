@@ -1,0 +1,8 @@
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\bin\Debug\DateStringFiles.exe.config
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\bin\Debug\DateStringFiles.exe
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\bin\Debug\DateStringFiles.pdb
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\obj\Debug\DateStringFiles.csproj.AssemblyReference.cache
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\obj\Debug\DateStringFiles.csproj.SuggestedBindingRedirects.cache
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\obj\Debug\DateStringFiles.csproj.CoreCompileInputs.cache
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\obj\Debug\DateStringFiles.exe
+D:\project\LearnCSharp\DateStringFiles\DateStringFiles\obj\Debug\DateStringFiles.pdb
